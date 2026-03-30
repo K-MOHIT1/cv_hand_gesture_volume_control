@@ -165,8 +165,8 @@ cv.destroyAllWindows()
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pushtogithub23/Gesture-Volume-Control-using-MediaPipe-and-OpenCV.git
-   cd Gesture-Volume-Control-using-MediaPipe-and-OpenCV
+   git clone https://github.com/K-MOHIT1/cv_hand_gesture_volume_control
+   cd cv_hand_gesture_volume_control
    ```
 
 2. Install the dependencies:
